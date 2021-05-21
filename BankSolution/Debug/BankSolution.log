@@ -1,0 +1,27 @@
+﻿  Person.cpp
+c:\users\user1\source\repos\banksolution\banksolution\person.h(18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\user1\source\repos\banksolution\banksolution\person.h(18): error C2143: syntax error: missing ',' before '&'
+c:\users\user1\source\repos\banksolution\banksolution\person.h(24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\user1\source\repos\banksolution\banksolution\person.h(24): error C3646: 'dateOfBirth': unknown override specifier
+c:\users\user1\source\repos\banksolution\banksolution\person.cpp(11): error C2789: 'Person::Date': an object of const-qualified type must be initialized
+  c:\users\user1\source\repos\banksolution\banksolution\person.h(24): note: see declaration of 'Person::Date'
+c:\users\user1\source\repos\banksolution\banksolution\person.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\user1\source\repos\banksolution\banksolution\person.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\user1\source\repos\banksolution\banksolution\person.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\user1\source\repos\banksolution\banksolution\person.cpp(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\user1\source\repos\banksolution\banksolution\person.cpp(82): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\user1\source\repos\banksolution\banksolution\person.cpp(82): error C2143: syntax error: missing ',' before '&'
+c:\users\user1\source\repos\banksolution\banksolution\person.cpp(83): error C2065: 'dOB': undeclared identifier
+c:\users\user1\source\repos\banksolution\banksolution\person.cpp(84): error C2789: 'Person::Date': an object of const-qualified type must be initialized
+  c:\users\user1\source\repos\banksolution\banksolution\person.h(24): note: see declaration of 'Person::Date'
+c:\users\user1\source\repos\banksolution\banksolution\person.cpp(84): error C2614: 'Person': illegal member initialization: 'dateOfBirth' is not a base or member
+c:\users\user1\source\repos\banksolution\banksolution\person.cpp(92): error C2065: 'dateOfBirth': undeclared identifier
+c:\users\user1\source\repos\banksolution\banksolution\person.cpp(92): error C2228: left of '.print' must have class/struct/union
+  c:\users\user1\source\repos\banksolution\banksolution\person.cpp(92): note: type is 'unknown-type'
+  BankSolution.cpp
+c:\users\user1\source\repos\banksolution\banksolution\person.h(18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\user1\source\repos\banksolution\banksolution\person.h(18): error C2143: syntax error: missing ',' before '&'
+c:\users\user1\source\repos\banksolution\banksolution\person.h(24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\user1\source\repos\banksolution\banksolution\person.h(24): error C3646: 'dateOfBirth': unknown override specifier
+  Account.cpp
+  Generating Code...
